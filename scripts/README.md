@@ -52,7 +52,7 @@ First generate the list of data files and result files:
 
 From the scripts directory, type:
 
-    python -m SimpleHTTPServer 12345
+    python -m http.server 12345
  
 Then, open Chrome (only works on Chrome!) and type this into the url window:
 
